@@ -1,0 +1,1842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260405132246K2FL6N</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260405132246DBDK96</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Oliendo los colores</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Descripción de una SdA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Sara González González</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de Aprendizaje para aprender a identificar, reconocer y asociar colores: rojo, azul, amarillo y verde. Adaptado  a alumnado con baja visión, TEA y discapacidad auditiva.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1775388111197</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mnlnifyg-j2u89ig6e</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Título. Descripción de una Situación de Aprendizaje</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Título. Descripción de una Situación de Aprendizaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Título. Descripción de una Situación de Aprendizaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Título. Descripción de una Situación de Aprendizaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnlnifyk-txetx75mn</odePageId>
+  <odeParentPageId>page-mnlnifyg-j2u89ig6e</odeParentPageId>
+  <pageName>Etapa educativa y nivel al que se dirige</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Etapa educativa y nivel al que se dirige</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Etapa educativa y nivel al que se dirige</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnlnifyk-txetx75mn</odePageId>
+      <odeBlockId>block-1775210050136-28h42ya87</odeBlockId>
+      <blockName>Etapa educativa y nivel al que se dirige</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnlnifyk-txetx75mn</odePageId>
+          <odeBlockId>block-1775210050136-28h42ya87</odeBlockId>
+          <odeIdeviceId>idevice-1775210050131-6ff9ysu7q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La siguiente Situación de Aprendizaje se dirige a la etapa de Educación Básica Obligatoria (EBO 1) para el nivel de 2º de EBO.  Si bien es cierto que para algunos de los saberes básicos aplicaremos el Decreto 57/2022 de Educación Primaria, para otros tomaremos como referencia el Decreto 56/2022 de Educación Infantil, por las características excepcionales del alumnado al que va dirigida la Situación de Aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775210050131-6ff9ysu7q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La siguiente Situación de Aprendizaje se dirige a la etapa de Educación Básica Obligatoria (EBO 1) para el nivel de 2º de EBO.  Si bien es cierto que para algunos de los saberes básicos aplicaremos el Decreto 57/2022 de Educación Primaria, para otros tomaremos como referencia el Decreto 56/2022 de Educación Infantil, por las características excepcionales del alumnado al que va dirigida la Situación de Aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnlnifyp-cu28zaf3q</odePageId>
+  <odeParentPageId>page-mnlnifyg-j2u89ig6e</odeParentPageId>
+  <pageName>Áreas implicadas</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Áreas implicadas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Áreas implicadas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnlnifyp-cu28zaf3q</odePageId>
+      <odeBlockId>block-1775210322274-uti5e88fa</odeBlockId>
+      <blockName>Áreas implicadas</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnlnifyp-cu28zaf3q</odePageId>
+          <odeBlockId>block-1775210322274-uti5e88fa</odeBlockId>
+          <odeIdeviceId>idevice-1775210322272-rdhah2g7m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Las áreas a las que haremos referencia para el desarrollo de la presente Situación de Aprendizaje serán las de la etapa de Educación Infantil, de forma global:</p>
+<ul>
+<li>Crecimiento en Armonía</li>
+<li>Descubrimiento y Exploración del Entorno</li>
+<li>Comunicación y Representación de la Realidad</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775210322272-rdhah2g7m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Las áreas a las que haremos referencia para el desarrollo de la presente Situación de Aprendizaje serán las de la etapa de Educación Infantil, de forma global:</p>\n<ul>\n<li>Crecimiento en Armonía</li>\n<li>Descubrimiento y Exploración del Entorno</li>\n<li>Comunicación y Representación de la Realidad</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnlnifyq-oqkq0dmjd</odePageId>
+  <odeParentPageId>page-mnlnifyg-j2u89ig6e</odeParentPageId>
+  <pageName>Agrupamientos y organización espacial</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Agrupamientos y organización espacial</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Agrupamientos y organización espacial</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnlnifyq-oqkq0dmjd</odePageId>
+      <odeBlockId>block-1775210589721-spiau64da</odeBlockId>
+      <blockName>Agrupamientos y organización espacial</blockName>
+      <iconName>case</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnlnifyq-oqkq0dmjd</odePageId>
+          <odeBlockId>block-1775210589721-spiau64da</odeBlockId>
+          <odeIdeviceId>idevice-1775210589717-k8mqnd5zr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para el desarrollo de la siguiente Situación de Aprendizaje ("Olemos los colores"), agruparemos al alumnado en gran grupo, es decir, en este caso grupo de dos puesto que la unidad se conforma por dos alumnos. Si bien es cierto que en alguna de las tareas propuestas, la agrupación será a nivel individual.</p>
+<p>En cuanto a la organización espacial, parte de la SdA se desarrollará en el aula de referencia, tanto trabajo en mesa como en la mesa del ordenador y en algunos momentos, siempre que las condiciones climáticas lo permitan, la actividad se llevará a cabo en el jardín del CPEE.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775210589717-k8mqnd5zr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para el desarrollo de la siguiente Situación de Aprendizaje (\"Olemos los colores\"), agruparemos al alumnado en gran grupo, es decir, en este caso grupo de dos puesto que la unidad se conforma por dos alumnos. Si bien es cierto que en alguna de las tareas propuestas, la agrupación será a nivel individual.</p>\n<p>En cuanto a la organización espacial, parte de la SdA se desarrollará en el aula de referencia, tanto trabajo en mesa como en la mesa del ordenador y en algunos momentos, siempre que las condiciones climáticas lo permitan, la actividad se llevará a cabo en el jardín del CPEE.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnlnifyr-tqx6aozy0</odePageId>
+  <odeParentPageId>page-mnlnifyg-j2u89ig6e</odeParentPageId>
+  <pageName>Temporalización</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Temporalización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Temporalización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnlnifyr-tqx6aozy0</odePageId>
+      <odeBlockId>block-1775211023849-ca5j8gfhu</odeBlockId>
+      <blockName>Temporalización</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnlnifyr-tqx6aozy0</odePageId>
+          <odeBlockId>block-1775211023849-ca5j8gfhu</odeBlockId>
+          <odeIdeviceId>idevice-1775211023846-5atyyqxmj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En cuanto a lo referido a la temporalización de la presente SdA, tomaremos para su desarrollo 16 sesiones de 30 minutos, repartidas en una hora al día, empleando para ello 8 días semanales de lunes a viernes. Se llevará a cabo durante el mes a abril, comenzando el día 20 y finalizando el 29.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775211023846-5atyyqxmj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En cuanto a lo referido a la temporalización de la presente SdA, tomaremos para su desarrollo 16 sesiones de 30 minutos, repartidas en una hora al día, empleando para ello 8 días semanales de lunes a viernes. Se llevará a cabo durante el mes a abril, comenzando el día 20 y finalizando el 29.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnlnifys-ryh7bonl7</odePageId>
+  <odeParentPageId>page-mnlnifyg-j2u89ig6e</odeParentPageId>
+  <pageName>Producciones del alumnado</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producciones del alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producciones del alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnlnifys-ryh7bonl7</odePageId>
+      <odeBlockId>block-1775211397664-n52yvoo2o</odeBlockId>
+      <blockName>Producciones del alumnado</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnlnifys-ryh7bonl7</odePageId>
+          <odeBlockId>block-1775211397664-n52yvoo2o</odeBlockId>
+          <odeIdeviceId>idevice-1775211397662-znfygi15g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Debido a la situación personal del alumnado, no será posible la realización de una infografía de manera autónoma, si bien es cierto que se intentará elaborar con ayuda de la maestra tutora, es decir, con mi colaboración guiada. Me encargaré de la expresión escrita y la disposición de los elementos de la infografía. Trataré de que el alumnado elija su diseño y apariencia y participe así en su elaboración.</p>
+<p>A la par, se dará al alumnado la oportunidad de crear un vídeo, de manera muy guiada y utilizando el modelado para ello. Recordemos que se trata de alumnado de 7 años, TEA, con discapacidad visual, y parte, uno de ellos también con discapacidad auditiva severa/profunda.</p>
+<p>Las producciones que más se amoldan a sus características serían:</p>
+<ul>
+<li>Creación de un collage de los colores (rojo, azul, amarillo y verde)</li>
+<li>Botes de diferentes olores asociados a los colores</li>
+<li>Panel de texturas asociadas a colores y olores</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775211397662-znfygi15g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Debido a la situación personal del alumnado, no será posible la realización de una infografía de manera autónoma, si bien es cierto que se intentará elaborar con ayuda de la maestra tutora, es decir, con mi colaboración guiada. Me encargaré de la expresión escrita y la disposición de los elementos de la infografía. Trataré de que el alumnado elija su diseño y apariencia y participe así en su elaboración.</p>\n<p>A la par, se dará al alumnado la oportunidad de crear un vídeo, de manera muy guiada y utilizando el modelado para ello. Recordemos que se trata de alumnado de 7 años, TEA, con discapacidad visual, y parte, uno de ellos también con discapacidad auditiva severa/profunda.</p>\n<p>Las producciones que más se amoldan a sus características serían:</p>\n<ul>\n<li>Creación de un collage de los colores (rojo, azul, amarillo y verde)</li>\n<li>Botes de diferentes olores asociados a los colores</li>\n<li>Panel de texturas asociadas a colores y olores</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnlnifyt-6bd57pvs9</odePageId>
+  <odeParentPageId>page-mnlnifyg-j2u89ig6e</odeParentPageId>
+  <pageName>Herramientas tecnológicas empleadas</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas tecnológicas empleadas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas tecnológicas empleadas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnlnifyt-6bd57pvs9</odePageId>
+      <odeBlockId>block-1775212133550-xgs2f5hx4</odeBlockId>
+      <blockName>Herramientas tecnológicas empleadas</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnlnifyt-6bd57pvs9</odePageId>
+          <odeBlockId>block-1775212133550-xgs2f5hx4</odeBlockId>
+          <odeIdeviceId>idevice-1775212133546-u8qs2u1rs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para mejorar el proceso de evaluación de la Situación de Aprendizaje, emplearemos instrumentos de evaluación, como las rúbricas, presentes en la web CEDEC de INTEF. </p>
+<p>A la hora de realizar la infografía, se utilizará la aplicación CANVA por su infinidad de diseños y posibilidades de acción, así como su uso intuitivo. </p>
+<p>Para el vídeo, el móvil será nuestro gran aliado, así como la reproducción de música e imágenes a través del ordenador de aula.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775212133546-u8qs2u1rs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para mejorar el proceso de evaluación de la Situación de Aprendizaje, emplearemos instrumentos de evaluación, como las rúbricas, presentes en la web CEDEC de INTEF. </p>\n<p>A la hora de realizar la infografía, se utilizará la aplicación CANVA por su infinidad de diseños y posibilidades de acción, así como su uso intuitivo. </p>\n<p>Para el vídeo, el móvil será nuestro gran aliado, así como la reproducción de música e imágenes a través del ordenador de aula.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnlnifyu-jdyaqvxnd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnlnifyv-72r17z4uc</odePageId>
+  <odeParentPageId>page-mnlnifyu-jdyaqvxnd</odeParentPageId>
+  <pageName>Justificación de su desarrollo y el impacto esperado</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Justificación de su desarrollo y el impacto esperado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Justificación de su desarrollo y el impacto esperado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnlnifyv-72r17z4uc</odePageId>
+      <odeBlockId>block-1775379092647-tsyeb4kq8</odeBlockId>
+      <blockName>Justificación de su desarrollo y el impacto esperado</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnlnifyv-72r17z4uc</odePageId>
+          <odeBlockId>block-1775379092647-tsyeb4kq8</odeBlockId>
+          <odeIdeviceId>idevice-1775379092646-j9vlw9dfd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La importancia del conocimiento del medio que nos rea, tanto el entorno como los ámbitos social, emocional y de comunicación, nos permite adaptar nuestra enseñanza para que se ajuste lo máximo posible a las características del alumnado y, por lo tanto, a su desarrollo integral como persona. Es por ello que, desde la siguiente SdA, lo que se pretende es el aprendizaje de saberes básicos para la vida diaria, que ayudará a comprender el medio en el que actuamos y convivimos como sociedad. La educación sensorial forma parte de ello, puesto que percibimos todo aquello que nos rodea a través de nuestros sentidos. Generalmente, el canal de entrada de la información es el visual. En nuestro caso, esa vía de acceso presenta barreras por lo que aprovecharemos el resto visual funcional del alumnado así como el resto de sentidos para adquirir destrezas, habilidades y estrategias a la hora de aprender y reconocer elementos que nos rodean, entre ellos los colores (rojo, azul, amarillo y verde en este caso). La intención educativa, por tanto, es la enseñanza del concepto de color y la transversalidad de los aprendizajes a diferentes contextos, empleando para ello distintos canales de percibir la información.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775379092646-j9vlw9dfd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La importancia del conocimiento del medio que nos rea, tanto el entorno como los ámbitos social, emocional y de comunicación, nos permite adaptar nuestra enseñanza para que se ajuste lo máximo posible a las características del alumnado y, por lo tanto, a su desarrollo integral como persona. Es por ello que, desde la siguiente SdA, lo que se pretende es el aprendizaje de saberes básicos para la vida diaria, que ayudará a comprender el medio en el que actuamos y convivimos como sociedad. La educación sensorial forma parte de ello, puesto que percibimos todo aquello que nos rodea a través de nuestros sentidos. Generalmente, el canal de entrada de la información es el visual. En nuestro caso, esa vía de acceso presenta barreras por lo que aprovecharemos el resto visual funcional del alumnado así como el resto de sentidos para adquirir destrezas, habilidades y estrategias a la hora de aprender y reconocer elementos que nos rodean, entre ellos los colores (rojo, azul, amarillo y verde en este caso). La intención educativa, por tanto, es la enseñanza del concepto de color y la transversalidad de los aprendizajes a diferentes contextos, empleando para ello distintos canales de percibir la información.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnlnifyw-0iwmazrwr</odePageId>
+  <odeParentPageId>page-mnlnifyu-jdyaqvxnd</odeParentPageId>
+  <pageName>Relación de la SdA con los ODS y Retos del s.XXI</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Relación de la SdA con los ODS y Retos del s.XXI</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Relación de la SdA con los ODS y Retos del s.XXI</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnlnifyw-0iwmazrwr</odePageId>
+      <odeBlockId>block-1775379594073-aaypu6qgn</odeBlockId>
+      <blockName>Relación con ODS y Retos del s.XXI</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnlnifyw-0iwmazrwr</odePageId>
+          <odeBlockId>block-1775379594073-aaypu6qgn</odeBlockId>
+          <odeIdeviceId>idevice-1775379594069-dl8kek3pm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La siguiente SdA está relacionada con los ODS:</p>
+<p>- ODS 4: Garantizar una educación de calidad inclusiva y equitativa, y promover las oportunidades de aprendizaje permanente para todos. </p>
+<p>- ODS 16: Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar acceso a la justicia para todos y crear instituciones eficaces, responsables e inclusivas a todos los niveles. </p>
+<p>Y los siguientes Retos del s. XXI:</p>
+<p>- Formar parte de un proyecto colectivo</p>
+<p>- Aceptar la discapacidad</p>
+<p>- Cooperar y convivir</p>
+<p>- Manejar la ansiedad que genera la incertidumbre</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775379594069-dl8kek3pm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La siguiente SdA está relacionada con los ODS:</p>\n<p>- ODS 4: Garantizar una educación de calidad inclusiva y equitativa, y promover las oportunidades de aprendizaje permanente para todos. </p>\n<p>- ODS 16: Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar acceso a la justicia para todos y crear instituciones eficaces, responsables e inclusivas a todos los niveles. </p>\n<p>Y los siguientes Retos del s. XXI:</p>\n<p>- Formar parte de un proyecto colectivo</p>\n<p>- Aceptar la discapacidad</p>\n<p>- Cooperar y convivir</p>\n<p>- Manejar la ansiedad que genera la incertidumbre</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnlnifyx-oe1dviuz7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnlnifyx-ohmyb259e</odePageId>
+  <odeParentPageId>page-mnlnifyx-oe1dviuz7</odeParentPageId>
+  <pageName>Competencias clave</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Competencias clave</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Competencias clave</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Competencias clave</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnlnifyx-ohmyb259e</odePageId>
+      <odeBlockId>block-1775380055383-81nu5xdzw</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnlnifyx-ohmyb259e</odePageId>
+          <odeBlockId>block-1775380055383-81nu5xdzw</odeBlockId>
+          <odeIdeviceId>idevice-1775380055380-y034lpo8u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La siguiente SdA se relaciona con las siguientes competencias clave, presentes en el Decreto 56 de educación infantil:</p>
+<p>- Competencia en comunicación lingüística</p>
+<p>- Competencia plurilingüe</p>
+<p>- Competencia matemática y competencia en ciencia, tecnología e ingeniería</p>
+<p>- Competencial personal, social y de aprender a aprender</p>
+<p>- Competencia digital</p>
+<p>- Competencia ciudadana</p>
+<p>- Competencia en conciencia y expresión culturales</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775380055380-y034lpo8u","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La siguiente SdA se relaciona con las siguientes competencias clave, presentes en el Decreto 56 de educación infantil:</p>\n<p>- Competencia en comunicación lingüística</p>\n<p>- Competencia plurilingüe</p>\n<p>- Competencia matemática y competencia en ciencia, tecnología e ingeniería</p>\n<p>- Competencial personal, social y de aprender a aprender</p>\n<p>- Competencia digital</p>\n<p>- Competencia ciudadana</p>\n<p>- Competencia en conciencia y expresión culturales</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnlnifyy-tbrzz0m9a</odePageId>
+  <odeParentPageId>page-mnlnifyx-oe1dviuz7</odeParentPageId>
+  <pageName>Competencias específicas</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Competencias específicas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Competencias específicas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnlnifyy-tbrzz0m9a</odePageId>
+      <odeBlockId>block-1775380623671-3nlo0fc6d</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnlnifyy-tbrzz0m9a</odePageId>
+          <odeBlockId>block-1775380623671-3nlo0fc6d</odeBlockId>
+          <odeIdeviceId>idevice-1775380623669-u7a8n3qq8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para la presentación de las competencias específicas y siguiendo el desarrollo del Decreto de educación infantil, las agruparemos por áreas, de forma globalizada:</p>
+<p>Área I: Crecimiento en Armonía</p>
+<p>Competencia específica 2: Reconocer, manifestar y regular progresivamente sus emociones, expresando necesidades y sentimientos para lograr bienestar emocional y seguridad afectiva.</p>
+<p>Competencias clave: CPSAA, CCL.</p>
+<p>Competencia específica 4. Establecer interacciones sociales en condiciones de igualdad, valorando la importancia de la<br />amistad, el respeto y la empatía, para construir su propia identidad basada en valores democráticos y de respeto a los derechos humanos.</p>
+<p>Competencias clave: CCL, CPSAA, CC, CCEC.</p>
+<p>Área II: Descubrimiento y Exploración del Entorno</p>
+<p>Competencia específica 1. Identificar las características de materiales, objetos y colecciones y establecer relaciones entre ellos, mediante la exploración, la manipulación sensorial, el manejo de herramientas sencillas y el desarrollo de destrezas lógico-matemáticas para descubrir y crear una idea cada vez más compleja del mundo.</p>
+<p>Competencias clave: STEM, CPSAA, CE.</p>
+<p>Área III: Comunicación y Representación de la Realidad</p>
+<p>Competencia específica 1. Manifestar interés por interactuar en situaciones cotidianas a través de la exploración y el uso de su repertorio comunicativo, para expresar sus necesidades e intenciones y responder a las exigencias del entorno.</p>
+<p>Competencias clave: CCL, CP, CD, CC.</p>
+<p>Competencia específica 2. Interpretar y comprender mensajes y representaciones apoyándose en conocimientos y recursos de su propia experiencia para responder a las demandas del entorno y construir nuevos aprendizajes.</p>
+<p>Competencias clave: CCL, CD, CPSAA, CCEC.</p>
+<p>Competencia específica 5. Valorar la diversidad lingüística presente en su entorno, así como otras manifestaciones culturales, para enriquecer sus estrategias comunicativas y su bagaje cultural.</p>
+<p>Competencias clave: CCL, CP, CCEC.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775380623669-u7a8n3qq8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para la presentación de las competencias específicas y siguiendo el desarrollo del Decreto de educación infantil, las agruparemos por áreas, de forma globalizada:</p>\n<p>Área I: Crecimiento en Armonía</p>\n<p>Competencia específica 2: Reconocer, manifestar y regular progresivamente sus emociones, expresando necesidades y sentimientos para lograr bienestar emocional y seguridad afectiva.</p>\n<p>Competencias clave: CPSAA, CCL.</p>\n<p>Competencia específica 4. Establecer interacciones sociales en condiciones de igualdad, valorando la importancia de la<br />amistad, el respeto y la empatía, para construir su propia identidad basada en valores democráticos y de respeto a los derechos humanos.</p>\n<p>Competencias clave: CCL, CPSAA, CC, CCEC.</p>\n<p>Área II: Descubrimiento y Exploración del Entorno</p>\n<p>Competencia específica 1. Identificar las características de materiales, objetos y colecciones y establecer relaciones entre ellos, mediante la exploración, la manipulación sensorial, el manejo de herramientas sencillas y el desarrollo de destrezas lógico-matemáticas para descubrir y crear una idea cada vez más compleja del mundo.</p>\n<p>Competencias clave: STEM, CPSAA, CE.</p>\n<p>Área III: Comunicación y Representación de la Realidad</p>\n<p>Competencia específica 1. Manifestar interés por interactuar en situaciones cotidianas a través de la exploración y el uso de su repertorio comunicativo, para expresar sus necesidades e intenciones y responder a las exigencias del entorno.</p>\n<p>Competencias clave: CCL, CP, CD, CC.</p>\n<p>Competencia específica 2. Interpretar y comprender mensajes y representaciones apoyándose en conocimientos y recursos de su propia experiencia para responder a las demandas del entorno y construir nuevos aprendizajes.</p>\n<p>Competencias clave: CCL, CD, CPSAA, CCEC.</p>\n<p>Competencia específica 5. Valorar la diversidad lingüística presente en su entorno, así como otras manifestaciones culturales, para enriquecer sus estrategias comunicativas y su bagaje cultural.</p>\n<p>Competencias clave: CCL, CP, CCEC.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnlnifyz-kwv36naln</odePageId>
+  <odeParentPageId>page-mnlnifyx-oe1dviuz7</odeParentPageId>
+  <pageName>Saberes Básicos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Saberes Básicos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Saberes Básicos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnlnifyz-kwv36naln</odePageId>
+      <odeBlockId>block-1775381143409-uqavhx8ax</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnlnifyz-kwv36naln</odePageId>
+          <odeBlockId>block-1775381143409-uqavhx8ax</odeBlockId>
+          <odeIdeviceId>idevice-1775381143406-j9882sdwl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Saberes básicos del Área I: Crecimiento en Armonía</p>
+<p>Bloque A. El cuerpo y el control progresivo del mismo</p>
+<p>– Autoimagen positiva y ajustada ante los demás.</p>
+<p>– Los sentidos y sus funciones. El cuerpo y el<br />entorno.<br />– El movimiento: control progresivo de la coordinación,<br />el tono, el equilibrio y los desplazamientos.<br />– Implicaciones de la discapacidad sensorial o<br />física en la vida cotidiana.</p>
+<p>– Progresiva autonomía en la realización de tareas.</p>
+<p>Bloque B. Desarrollo y equilibrio afectivos</p>
+<p>– Aceptación constructiva de los errores y las<br />correcciones: manifestaciones de superación y<br />logro.<br />– Valoración del trabajo bien hecho: desarrollo<br />inicial de hábitos y actitudes de esfuerzo, constancia,<br />organización, atención e iniciativa.</p>
+<p>Bloque D. Interacción socioemocional en el entorno. La vida junto a los demás</p>
+<p>– Asentamientos y actividades de nuestro entorno.</p>
+<p>Saberes básicos del Área II: Descubrimiento y Exploración del Entorno</p>
+<p>Bloque A. Diálogo corporal con el entorno. Exploración creativa de objetos materiales y espacios</p>
+<p>– Cualidades o atributos de objetos y materiales. Relaciones de orden, correspondencia, clasificación y comparación.</p>
+<p>Bloque B. Experimentación en el entorno. Curiosidad, pensamiento científico y creatividad</p>
+<p>– Estrategias de construcción de nuevos conocimientos: relaciones y conexiones entre lo conocido y lo novedoso, y entre experiencias previas y nuevas; andamiaje e interacciones de calidad con las personas adultas, con iguales y con el entorno.<br />– Modelo de control de variables. Estrategias y técnicas de investigación: ensayo-error, observación, experimentación, formulación y comprobación de hipótesis, realización de preguntas, manejo y búsqueda en distintas fuentes de información.</p>
+<p>Saberes básicos del Área III: Comunicación y Representación de la Realidad</p>
+<p>Bloque C. Comunicación verbal: expresión, comprensión, diálogo</p>
+<p>– El lenguaje oral en situaciones cotidianas: conversaciones, juegos de interacción social y<br />expresión de vivencias.</p>
+<p>– Discriminación auditiva y conciencia fonológica.</p>
+<p>– Verbalización de la secuencia de acciones en una acción planificada.</p>
+<p>Bloque F. El Lenguaje y la expresión musicales</p>
+<p>– Posibilidades sonoras, expresivas y creativas de la voz, el cuerpo, los objetos cotidianos de su<br />entorno y los instrumentos.</p>
+<p>– Intención expresiva en las producciones musicales.<br />– La escucha musical como disfrute</p>
+<p>Bloque G. El lenguaje y la expresión plásticos y visuales<br />– Materiales específicos e inespecíficos, elementos, técnicas y procedimientos plásticos.<br />– Intención expresiva de producciones plásticas y pictóricas.<br />– Manifestaciones plásticas variadas con perspectiva educadora. Otras manifestaciones artísticas.<br /></p>
+<p>Bloque I. Alfabetización digital</p>
+<p>– Aplicaciones y herramientas digitales con distintos fines: creación, comunicación, aprendizaje<br />y disfrute.<br />– Uso saludable, moderado y responsable de las tecnologías digitales.<br />– Lectura e interpretación crítica de imágenes e información recibida a través de medios digitales.<br />– Función educativa de los dispositivos y elementos tecnológicos de su entorno.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775381143406-j9882sdwl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Saberes básicos del Área I: Crecimiento en Armonía</p>\n<p>Bloque A. El cuerpo y el control progresivo del mismo</p>\n<p>– Autoimagen positiva y ajustada ante los demás.</p>\n<p>– Los sentidos y sus funciones. El cuerpo y el<br />entorno.<br />– El movimiento: control progresivo de la coordinación,<br />el tono, el equilibrio y los desplazamientos.<br />– Implicaciones de la discapacidad sensorial o<br />física en la vida cotidiana.</p>\n<p>– Progresiva autonomía en la realización de tareas.</p>\n<p>Bloque B. Desarrollo y equilibrio afectivos</p>\n<p>– Aceptación constructiva de los errores y las<br />correcciones: manifestaciones de superación y<br />logro.<br />– Valoración del trabajo bien hecho: desarrollo<br />inicial de hábitos y actitudes de esfuerzo, constancia,<br />organización, atención e iniciativa.</p>\n<p>Bloque D. Interacción socioemocional en el entorno. La vida junto a los demás</p>\n<p>– Asentamientos y actividades de nuestro entorno.</p>\n<p>Saberes básicos del Área II: Descubrimiento y Exploración del Entorno</p>\n<p>Bloque A. Diálogo corporal con el entorno. Exploración creativa de objetos materiales y espacios</p>\n<p>– Cualidades o atributos de objetos y materiales. Relaciones de orden, correspondencia, clasificación y comparación.</p>\n<p>Bloque B. Experimentación en el entorno. Curiosidad, pensamiento científico y creatividad</p>\n<p>– Estrategias de construcción de nuevos conocimientos: relaciones y conexiones entre lo conocido y lo novedoso, y entre experiencias previas y nuevas; andamiaje e interacciones de calidad con las personas adultas, con iguales y con el entorno.<br />– Modelo de control de variables. Estrategias y técnicas de investigación: ensayo-error, observación, experimentación, formulación y comprobación de hipótesis, realización de preguntas, manejo y búsqueda en distintas fuentes de información.</p>\n<p>Saberes básicos del Área III: Comunicación y Representación de la Realidad</p>\n<p>Bloque C. Comunicación verbal: expresión, comprensión, diálogo</p>\n<p>– El lenguaje oral en situaciones cotidianas: conversaciones, juegos de interacción social y<br />expresión de vivencias.</p>\n<p>– Discriminación auditiva y conciencia fonológica.</p>\n<p>– Verbalización de la secuencia de acciones en una acción planificada.</p>\n<p>Bloque F. El Lenguaje y la expresión musicales</p>\n<p>– Posibilidades sonoras, expresivas y creativas de la voz, el cuerpo, los objetos cotidianos de su<br />entorno y los instrumentos.</p>\n<p>– Intención expresiva en las producciones musicales.<br />– La escucha musical como disfrute</p>\n<p>Bloque G. El lenguaje y la expresión plásticos y visuales<br />– Materiales específicos e inespecíficos, elementos, técnicas y procedimientos plásticos.<br />– Intención expresiva de producciones plásticas y pictóricas.<br />– Manifestaciones plásticas variadas con perspectiva educadora. Otras manifestaciones artísticas.<br /></p>\n<p>Bloque I. Alfabetización digital</p>\n<p>– Aplicaciones y herramientas digitales con distintos fines: creación, comunicación, aprendizaje<br />y disfrute.<br />– Uso saludable, moderado y responsable de las tecnologías digitales.<br />– Lectura e interpretación crítica de imágenes e información recibida a través de medios digitales.<br />– Función educativa de los dispositivos y elementos tecnológicos de su entorno.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnlnifz1-ys47tc2b6</odePageId>
+  <odeParentPageId>page-mnlnifyx-oe1dviuz7</odeParentPageId>
+  <pageName>Criterios de evaluación relacionados con las competencias específicas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación relacionados con las competencias específicas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación relacionados con las competencias específicas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnlnifz1-ys47tc2b6</odePageId>
+      <odeBlockId>block-1775380922122-2r2udyarg</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnlnifz1-ys47tc2b6</odePageId>
+          <odeBlockId>block-1775380922122-2r2udyarg</odeBlockId>
+          <odeIdeviceId>idevice-1775380922118-3slps6r2b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Área I: Crecimiento en Armonía</p>
+<p>Criterios de evaluación de la Competencia específica 2:</p>
+<p>2.2 Ofrecer y pedir ayuda en situaciones cotidianas,<br />valorando los beneficios de la cooperación y<br />la ayuda entre iguales.<br />2.3 Expresar inquietudes, gustos y preferencias,<br />mostrando satisfacción y seguridad sobre los logros<br />conseguidos.</p>
+<p>Criterios de evaluación de la Competencia específica 4:</p>
+<p>4.1 Participar con iniciativa en juegos y actividades<br />colectivas relacionándose con otras personas con<br />actitudes de afecto y de empatía, respetando los<br />distintos ritmos individuales y evitando todo tipo<br />de discriminación.</p>
+<p>4.3 Participar activamente en actividades relacionadas<br />con la reflexión sobre las normas sociales<br />que regulan la convivencia y promueven valores<br />como el respeto a la diversidad, el trato no discriminatorio<br />hacia las personas con discapacidad y<br />la igualdad de género.</p>
+<p>Área II: Descubrimiento y Exploración del Entorno</p>
+<p>Criterios de evaluación de la competencia específica 1:</p>
+<p>1.1 Establecer distintas relaciones entre los objetos a partir de sus cualidades o atributos, mostrando curiosidad e interés.</p>
+<p>Área III: Comunicación y Representación de la Realidad</p>
+<p>Criterios de evaluación de la competencia específica 1:</p>
+<p>1.4 Interactuar con distintos recursos digitales, familiarizándose con diferentes medios y herramientas digitales.</p>
+<p>Criterios de evaluación de la competencia específica 2:</p>
+<p>2.2 Interpretar los mensajes transmitidos mediante representaciones o manifestaciones artísticas, también en formato digital, reconociendo la intencionalidad del emisor y mostrando una actitud curiosa y responsable.</p>
+<p>Criterios de evaluación de la competencia específica 5:</p>
+<p>5.4 Expresar emociones, ideas y pensamientos a través de manifestaciones artísticas y culturales, disfrutando del proceso creativo.<br />5.5 Expresar gustos, preferencias y opiniones sobre distintas manifestaciones artísticas, explicando las emociones que produce su disfrute.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775380922118-3slps6r2b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Área I: Crecimiento en Armonía</p>\n<p>Criterios de evaluación de la Competencia específica 2:</p>\n<p>2.2 Ofrecer y pedir ayuda en situaciones cotidianas,<br />valorando los beneficios de la cooperación y<br />la ayuda entre iguales.<br />2.3 Expresar inquietudes, gustos y preferencias,<br />mostrando satisfacción y seguridad sobre los logros<br />conseguidos.</p>\n<p>Criterios de evaluación de la Competencia específica 4:</p>\n<p>4.1 Participar con iniciativa en juegos y actividades<br />colectivas relacionándose con otras personas con<br />actitudes de afecto y de empatía, respetando los<br />distintos ritmos individuales y evitando todo tipo<br />de discriminación.</p>\n<p>4.3 Participar activamente en actividades relacionadas<br />con la reflexión sobre las normas sociales<br />que regulan la convivencia y promueven valores<br />como el respeto a la diversidad, el trato no discriminatorio<br />hacia las personas con discapacidad y<br />la igualdad de género.</p>\n<p>Área II: Descubrimiento y Exploración del Entorno</p>\n<p>Criterios de evaluación de la competencia específica 1:</p>\n<p>1.1 Establecer distintas relaciones entre los objetos a partir de sus cualidades o atributos, mostrando curiosidad e interés.</p>\n<p>Área III: Comunicación y Representación de la Realidad</p>\n<p>Criterios de evaluación de la competencia específica 1:</p>\n<p>1.4 Interactuar con distintos recursos digitales, familiarizándose con diferentes medios y herramientas digitales.</p>\n<p>Criterios de evaluación de la competencia específica 2:</p>\n<p>2.2 Interpretar los mensajes transmitidos mediante representaciones o manifestaciones artísticas, también en formato digital, reconociendo la intencionalidad del emisor y mostrando una actitud curiosa y responsable.</p>\n<p>Criterios de evaluación de la competencia específica 5:</p>\n<p>5.4 Expresar emociones, ideas y pensamientos a través de manifestaciones artísticas y culturales, disfrutando del proceso creativo.<br />5.5 Expresar gustos, preferencias y opiniones sobre distintas manifestaciones artísticas, explicando las emociones que produce su disfrute.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnlnifz2-rc4unuzyj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnlnifz2-rc4unuzyj</odePageId>
+      <odeBlockId>block-1775382548826-c3afkek0d</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnlnifz2-rc4unuzyj</odePageId>
+          <odeBlockId>block-1775382548826-c3afkek0d</odeBlockId>
+          <odeIdeviceId>idevice-1775382548821-0r3t3bx8e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para desarrollar la presente Situación de Aprendizaje, y teniendo en cuenta las premisas del DUA 3.0., se llevarán a cabo metodologías activas que activen la motivación del alumnado y les permita adquirir gradualmente autonomía personal en los desplazamientos, en la realización de actividades así como en la interacción social y transversalidad de contenidos de aprendizaje a otros contextos.</p>
+<p>Para ello, se emplearán las siguientes metodologías activas:</p>
+<p>- ABP (Proyecto de centro: Los colores de la naturaleza)</p>
+<p>- ABJ (Para ello, se presentarán juegos de mesa como el parchís para asociar a los colores trabajados, que coinciden con los de este juego recreativo)</p>
+<p>- Metodología TEACCH para apoyar la comunicación</p>
+<p>- Aprendizaje centrado en la persona</p>
+<p>- Aprendizaje multisensorial</p>
+<p>- Aprendizaje conductual positivo, valorando las acciones individuales</p>
+<p>- Estaciones de aprendizaje (Incorporando tareas de multimodales y de progresiva complejidad)</p>
+<p>- Rutinas de pensamiento (Para mantener la motivación y la capacidad de asombro e incertidumbre del alumnado, aprendiendo a gestionar las emociones)</p>
+<p>Entre las estrategias utilizadas destacamos: </p>
+<p>• Estructuración espacial y temporal.</p>
+<p>• Enseñanza incidental.</p>
+<p>• Aprendizaje sin error.</p>
+<p>• Secuenciación de tareas.</p>
+<p>• Encadenamiento hacia atrás.</p>
+<p>• Uso de claves visuales y auditivas.</p>
+<p>• Moldeado y modelado.</p>
+<p>• Aprendizaje vicario e incidental. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775382548821-0r3t3bx8e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para desarrollar la presente Situación de Aprendizaje, y teniendo en cuenta las premisas del DUA 3.0., se llevarán a cabo metodologías activas que activen la motivación del alumnado y les permita adquirir gradualmente autonomía personal en los desplazamientos, en la realización de actividades así como en la interacción social y transversalidad de contenidos de aprendizaje a otros contextos.</p>\n<p>Para ello, se emplearán las siguientes metodologías activas:</p>\n<p>- ABP (Proyecto de centro: Los colores de la naturaleza)</p>\n<p>- ABJ (Para ello, se presentarán juegos de mesa como el parchís para asociar a los colores trabajados, que coinciden con los de este juego recreativo)</p>\n<p>- Metodología TEACCH para apoyar la comunicación</p>\n<p>- Aprendizaje centrado en la persona</p>\n<p>- Aprendizaje multisensorial</p>\n<p>- Aprendizaje conductual positivo, valorando las acciones individuales</p>\n<p>- Estaciones de aprendizaje (Incorporando tareas de multimodales y de progresiva complejidad)</p>\n<p>- Rutinas de pensamiento (Para mantener la motivación y la capacidad de asombro e incertidumbre del alumnado, aprendiendo a gestionar las emociones)</p>\n<p>Entre las estrategias utilizadas destacamos: </p>\n<p>• Estructuración espacial y temporal.</p>\n<p>• Enseñanza incidental.</p>\n<p>• Aprendizaje sin error.</p>\n<p>• Secuenciación de tareas.</p>\n<p>• Encadenamiento hacia atrás.</p>\n<p>• Uso de claves visuales y auditivas.</p>\n<p>• Moldeado y modelado.</p>\n<p>• Aprendizaje vicario e incidental. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnlnifz3-3qc0lh9ke</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Vinculación con los programas y proyectos de centro</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los programas y proyectos de centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los programas y proyectos de centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. Vinculación con los programas y proyectos de centro</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnlnifz3-3qc0lh9ke</odePageId>
+      <odeBlockId>block-1775382984877-qmhxco1da</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnlnifz3-3qc0lh9ke</odePageId>
+          <odeBlockId>block-1775382984877-qmhxco1da</odeBlockId>
+          <odeIdeviceId>idevice-1775382984874-tazt22tl6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Dicha SdA, se vinculará con:</p>
+<p>- Plan de Digitalización</p>
+<p>- Programa MUS-E</p>
+<p>- Radio Valdredo</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775382984874-tazt22tl6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Dicha SdA, se vinculará con:</p>\n<p>- Plan de Digitalización</p>\n<p>- Programa MUS-E</p>\n<p>- Radio Valdredo</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnlnifz4-4ruilojuu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnlnifz4-4ruilojuu</odePageId>
+      <odeBlockId>block-1775383233403-ccq83qrf3</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnlnifz4-4ruilojuu</odePageId>
+          <odeBlockId>block-1775383233403-ccq83qrf3</odeBlockId>
+          <odeIdeviceId>idevice-1775383233393-x5ek5eyzf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para apoyar al desarrollo de la SdA y a la consecución de los objetivos propuestos, el proceso de enseñanza-aprendizaje se verá apoyado por actividades complementarias como la salida al Jardín Botánico. Para las actividades extraescolares, el alumnado está inscrito a las referidas al ámbito musical, que se desarrollarán una vez finalizado el comedor.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775383233393-x5ek5eyzf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para apoyar al desarrollo de la SdA y a la consecución de los objetivos propuestos, el proceso de enseñanza-aprendizaje se verá apoyado por actividades complementarias como la salida al Jardín Botánico. Para las actividades extraescolares, el alumnado está inscrito a las referidas al ámbito musical, que se desarrollarán una vez finalizado el comedor.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnlnifz5-rvgqchm83</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Atribución y fichero descargable</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6. Atribución y fichero descargable</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnlnifz5-rvgqchm83</odePageId>
+      <odeBlockId>block-1775388142663-iakagjwya</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnlnifz5-rvgqchm83</odePageId>
+          <odeBlockId>block-1775388142663-iakagjwya</odeBlockId>
+          <odeIdeviceId>idevice-1775388142660-e9kf5n899</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Oliendo los colores</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de Aprendizaje para aprender a identificar, reconocer y asociar colores: rojo, azul, amarillo y verde. Adaptado  a alumnado con baja visión, TEA y discapacidad auditiva.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Sara González González</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
